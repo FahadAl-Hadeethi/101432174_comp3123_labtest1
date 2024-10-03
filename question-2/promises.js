@@ -20,4 +20,4 @@ resolvedPromise()
 
 rejectedPromise()
     .then(result => console.log(result))
-    .catch(error => console.error(error));  
+    .catch(error => console.error(error)); 
